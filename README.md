@@ -1,4 +1,4 @@
-# TypeScript / Tailwind Next.js example
+# Next.js example with MobxStateTree / TypeScript / Tailwind CSS
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
 
