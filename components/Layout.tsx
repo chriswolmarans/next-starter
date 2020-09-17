@@ -12,7 +12,7 @@ type Props = {
 
 const Layout = ({ children, title = 'This is the default title' }: Props) => (
     <Provider value={rootStore}>
-        <div className={'container mx-auto'}>
+        <div className={'container mx-auto px-5'}>
         <Head>
           <title>{title}</title>
           <meta charSet="utf-8" />
